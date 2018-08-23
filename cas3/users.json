@@ -1,0 +1,19 @@
+[
+	{
+		"username" : "Petko",
+		"email" : "petko@yaho.com",
+		"age": "18"
+	},
+
+	{
+		"username" : "Mitko",
+		"email" : "mitko@yaho.com",
+		"age": "20"
+	},
+
+	{
+		"username" : "Ratko",
+		"email" : "ratko@yaho.com",
+		"age": "18"
+	}
+]
