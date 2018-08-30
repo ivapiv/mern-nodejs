@@ -1,0 +1,20 @@
+
+<h1> Products: </h1>
+
+<table>
+	<th> ID </th>
+	<th> Name </th>
+	<th> Quantity </th>
+	<th> Price </th>
+
+<% products.forEach(p => { %>
+	<tr>
+		<td> <%= p.id %> </td>
+		<td> <%= p.name %> </td>
+		<td> <%= p.price %> </td>
+		<td> <%= p.quantity %> </td>
+	</tr>
+	
+<% }) %>
+
+</table>
