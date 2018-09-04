@@ -1,5 +1,5 @@
 {
-  "name": "node",
+  "name": "cas9",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,8 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "bcrypt-nodejs": "0.0.3",
+    "cookie-parser": "^1.4.3",
     "express": "^4.16.3",
-    "mongodb": "^3.1.4"
+    "mongoose": "^5.2.13",
+    "passport": "^0.4.0"
   }
 }
